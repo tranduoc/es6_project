@@ -1,3 +1,3 @@
 const addUser = () => {
-  console.log("Thuc hien task add user ");
+  console.log("add info user ");
 };
